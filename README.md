@@ -1,2 +1,3 @@
 # webserver-maybe
 Most of my webserver crap/shit
+This is going to mostly contain my woes of creating a website from scratch, poor me...
